@@ -1,6 +1,6 @@
 🌧 Rainfall Prediction - Austin, Texas
 📌 Project Overview
-This project involves building a machine learning model to predict rainfall in Austin, Texas based on weather-related features. The analysis involves data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction, all conducted in a Jupyter Notebook.
+This project involves building a machine learning model to predict rainfall in Austin, Texas based on weather-related features. The analysis involves data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction, all conducted in google colab.
 
 📊 Dataset
 The dataset contains meteorological data including features such as:
